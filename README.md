@@ -1,4 +1,4 @@
-- 👋 Bonjour Everyone, I’m Monika B.Sc(Hons.) final year Computer Science student looking my way out of uni and finding my way to Tech.
+- 👋 <b>Bonjour Everyone,</b> I’m <b>Monika B.Sc(Hons.)</b> final year <b>Computer Science</b> student looking my way from uni and finding my way to Tech.
 - 👀 I’m interested in Technology, Clouds and my homie plants.
 - 🌱 I’m currently learning Cloud Computing, Node js and Meditation.
 - 💞️ I’m looking to collaborate on something Beginner Friendly and related to Frontend.
