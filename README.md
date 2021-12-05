@@ -1,5 +1,5 @@
-- 👋 <b>Bonjour Everyone,</b> I’m Monika 
-- 🌱<b>I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student looking my way from uni and finding my way to Tech.
+- 👋 <b>Bonjour Everyone,</b>Monika Here
+- 🌱<b> I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student looking my way from uni and finding my way to Tech.
 - 👀 I’m interested in Technology, Clouds and my homie plants.
 - 🌱 I’m currently learning Cloud Computing, Node js and Meditation.
 - 💞️ I’m looking to collaborate on something Beginner Friendly and related to Frontend.
