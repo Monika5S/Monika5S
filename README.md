@@ -1,8 +1,9 @@
-- 👋 <b>Bonjour Everyone,</b>Monika Here
-- 🌱<b> I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student finding my way to Tech.
-- 👀 I’m interested in Technology, Clouds.<!--- 🌱 I’m currently learning Cloud Services and Meditation.-->
+- 👋 <b>Hey Everyone,</b>I'm Monika
+<!--🌱<b> I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student.
+- 👀 I’m interested in Technology, Clouds.
+- 🌱 I’m currently learning Cloud Services and Meditation.
 - 💞️ I’m looking to collaborate on something Beginner Friendly.
-<!-- - 📫 connect me <a href="https://www.linkedin.com/in/monika-s-a6a1141a5/">here</a> on LinkedIn. -->
+ - 📫 connect me <a href="https://www.linkedin.com/in/monika-s-a6a1141a5/">here</a> on LinkedIn. -->
 
 <!---
 Monika5S/Monika5S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
