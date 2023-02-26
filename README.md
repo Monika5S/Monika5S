@@ -1,4 +1,8 @@
 - 👋 <b>Hey Everyone,</b>I'm Monika
+- 🌱 I’m currently learning React.
+- 💞️ I’m building Frontend website using HTML, CSS, BootStrap, JavaScript.
+
+- ![](https://komarev.com/ghpvc/?username=Monika5S)
 <!--🌱<b> I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student.
 - 👀 I’m interested in Technology, Clouds.
 - 🌱 I’m currently learning Cloud Services and Meditation.
