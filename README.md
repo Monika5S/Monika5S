@@ -1,8 +1,8 @@
 - 👋 <b>Hey Everyone,</b>I'm Monika
-- 🌱 I’m currently learning React.
-- 💞️ I’m building Frontend website using HTML, CSS, BootStrap, JavaScript.
-
+- 💞️ Aspiring Frontend Web Developer based in India.
+- 🌱 I’m Currently Learning React js.
 - ![](https://komarev.com/ghpvc/?username=Monika5S)
+- My SheCodes profile <a href="https://www.shecodes.io/graduates/52606-monika-singh" target="_blank">visit here</a>
 
 <h3 align="left">My Tech Stack:</h3>
 <p align="left"> 
@@ -11,7 +11,7 @@
  </a> 
  
  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  </a>
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank">
@@ -23,7 +23,7 @@
  </a>
  
   <a href="https://www.python.org" target="_blank"> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
  </a> 
 </p>
 <!--🌱<b> I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student.
