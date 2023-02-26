@@ -3,6 +3,29 @@
 - 💞️ I’m building Frontend website using HTML, CSS, BootStrap, JavaScript.
 
 - ![](https://komarev.com/ghpvc/?username=Monika5S)
+
+<h3 align="left">My Tech Stack:</h3>
+<p align="left"> 
+ <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt="html5" width="40" height="40"/>
+ </a> 
+ 
+ <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank"> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+ </a>
+ 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+ </a>
+ 
+ <a href="https://beta.reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+ </a>
+ 
+  <a href="https://www.python.org" target="_blank"> 
+   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+ </a> 
+</p>
 <!--🌱<b> I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student.
 - 👀 I’m interested in Technology, Clouds.
 - 🌱 I’m currently learning Cloud Services and Meditation.
