@@ -2,6 +2,7 @@
 - 💞️ Aspiring Frontend Web Developer based in India.
 - 🌱 I’m Currently Learning React js.
 - My SheCodes profile <a href="https://www.shecodes.io/graduates/52606-monika-singh" target="_blank">visit here</a>
+<br />
 ![](https://komarev.com/ghpvc/?username=Monika5S)
 <h3 align="left">My Tech Stack:</h3>
 <p align="left"> 
