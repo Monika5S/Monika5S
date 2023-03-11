@@ -4,7 +4,7 @@
 - 📫 connect me <a href="https://www.linkedin.com/in/monika-singh-a6a1141a5/" target="_blank">here</a> on LinkedIn. 
 -  My SheCodes profile <a href="https://www.shecodes.io/graduates/52606-monika-singh" target="_blank">visit here</a> 
 
-- ![](https://komarev.com/ghpvc/?username=Monika5S)
+<!-- - ![](https://komarev.com/ghpvc/?username=Monika5S) -->
 <h3 align="left">My Tech Stack:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank"> 
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
  </a> 
 </p>
+
+![Monika5S's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika5S&theme=radical&layout=compact)
 <!--🌱<b> I'm a B.Sc(Hons.)</b> final year <b>Computer Science</b> student.
 - 👀 I’m interested in Technology, Clouds.
 - 🌱 I’m currently learning Cloud Services and Meditation.
