@@ -1,5 +1,5 @@
 - 👋 <b>Hey Everyone,</b>I'm Monika
-- 💞️ Aspiring Frontend Web Developer based in India.
+<!-- - 💞️ Aspiring Frontend Web Developer based in India. -->
 - 🌱 I’m Currently Learning React js.
 - 📱 find me on <a href="https://codesandbox.io/u/Mona">codesandbox</a> starting point to some of my projects.
 - 📫 connect me <a href="https://www.linkedin.com/in/monika-singh-a6a1141a5/" target="_blank">here</a> on LinkedIn. 
